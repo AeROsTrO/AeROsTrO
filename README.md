@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AeROsTrO || Anshu\
+-Hi, I’m @AeROsTrO || Anshu\
 -I love to know how stuff works\
 -I also like to play and work on games\
 -I am currently learning web development.\
